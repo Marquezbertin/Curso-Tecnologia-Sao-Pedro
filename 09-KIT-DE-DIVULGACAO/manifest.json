@@ -1,0 +1,572 @@
+[
+  {
+    "arquivo": "redes-sociais/feed/feed-convite-geral.png",
+    "titulo": "Convite — TECNOLOGIA NA PRÁTICA",
+    "formato": "1080x1080",
+    "uso": "Instagram/Facebook feed"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-convite-exploradores.png",
+    "titulo": "Convite — EXPLORADORES",
+    "formato": "1080x1080",
+    "uso": "Instagram/Facebook feed"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-convite-makers.png",
+    "titulo": "Convite — MAKERS/DEVS",
+    "formato": "1080x1080",
+    "uso": "Instagram/Facebook feed"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-convite-profissionais.png",
+    "titulo": "Convite — PROFISSIONAIS",
+    "formato": "1080x1080",
+    "uso": "Instagram/Facebook feed"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-gratis-de-verdade.png",
+    "titulo": "É grátis de verdade",
+    "formato": "1080x1080",
+    "uso": "Feed — quebra de objeção"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-prova-depoimento.png",
+    "titulo": "Aprender fazendo",
+    "formato": "1080x1080",
+    "uso": "Feed institucional sem depoimento"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-tres-trilhas.png",
+    "titulo": "As três trilhas",
+    "formato": "1080x1080",
+    "uso": "Feed — visão geral"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-como-funciona.png",
+    "titulo": "Como funciona (5 passos)",
+    "formato": "1080x1080",
+    "uso": "Feed — explicação"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-sem-computador.png",
+    "titulo": "Aprender pelo celular",
+    "formato": "1080x1080",
+    "uso": "Feed — quebra de objeção"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-inscricoes-abertas.png",
+    "titulo": "Inscrições abertas",
+    "formato": "1080x1080",
+    "uso": "Feed — lançamento"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-ultima-chamada.png",
+    "titulo": "Última chamada",
+    "formato": "1080x1080",
+    "uso": "Feed — escassez real (usar só se houver vaga)"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-mostra-de-projetos.png",
+    "titulo": "Mostra de projetos",
+    "formato": "1080x1080",
+    "uso": "Feed — evento"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-certificado.png",
+    "titulo": "Certificado",
+    "formato": "1080x1080",
+    "uso": "Feed — benefício"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-projeto-destaque.png",
+    "titulo": "Projeto em destaque",
+    "formato": "1080x1080",
+    "uso": "Feed — prova de resultado"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-feito-em-sao-pedro.png",
+    "titulo": "Feito em São Pedro",
+    "formato": "1080x1080",
+    "uso": "Feed — pertencimento"
+  },
+  {
+    "arquivo": "redes-sociais/feed/feed-tirando-duvidas.png",
+    "titulo": "Tirando dúvidas",
+    "formato": "1080x1080",
+    "uso": "Feed — objeções"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-contagem-7.png",
+    "titulo": "Contagem regressiva — 7 dia(s)",
+    "formato": "1080x1920",
+    "uso": "Stories"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-contagem-3.png",
+    "titulo": "Contagem regressiva — 3 dia(s)",
+    "formato": "1080x1920",
+    "uso": "Stories"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-contagem-1.png",
+    "titulo": "Contagem regressiva — 1 dia(s)",
+    "formato": "1080x1920",
+    "uso": "Stories"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-hoje-tem-aula.png",
+    "titulo": "É hoje — aula ao vivo",
+    "formato": "1080x1920",
+    "uso": "Stories no dia da aula"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-inscricoes-abertas.png",
+    "titulo": "Inscrições abertas",
+    "formato": "1080x1920",
+    "uso": "Stories de lançamento"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-enquete-trilha.png",
+    "titulo": "Enquete: qual trilha",
+    "formato": "1080x1920",
+    "uso": "Stories — engajamento"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-bastidor-equipe.png",
+    "titulo": "Bastidor da equipe",
+    "formato": "1080x1920",
+    "uso": "Stories — humanização"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-mostra-hoje.png",
+    "titulo": "Mostra hoje",
+    "formato": "1080x1920",
+    "uso": "Stories — evento"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-depoimento.png",
+    "titulo": "Depoimento em story",
+    "formato": "1080x1920",
+    "uso": "Stories — prova social"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-tres-trilhas.png",
+    "titulo": "Três trilhas em story",
+    "formato": "1080x1920",
+    "uso": "Stories"
+  },
+  {
+    "arquivo": "redes-sociais/stories/story-cta-qrcode.png",
+    "titulo": "CTA com QR code",
+    "formato": "1080x1920",
+    "uso": "Stories — conversão"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-como-funciona-1.png",
+    "titulo": "Carrossel Como funciona — slide 1",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-como-funciona-2.png",
+    "titulo": "Carrossel Como funciona — slide 2",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-como-funciona-3.png",
+    "titulo": "Carrossel Como funciona — slide 3",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-como-funciona-4.png",
+    "titulo": "Carrossel Como funciona — slide 4",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-como-funciona-5.png",
+    "titulo": "Carrossel Como funciona — slide 5",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-trilhas-1.png",
+    "titulo": "Carrossel Três trilhas — capa",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-trilhas-2.png",
+    "titulo": "Carrossel Três trilhas — EXPLORADORES",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-trilhas-3.png",
+    "titulo": "Carrossel Três trilhas — MAKERS/DEVS",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-trilhas-4.png",
+    "titulo": "Carrossel Três trilhas — PROFISSIONAIS",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-trilhas-5.png",
+    "titulo": "Carrossel Três trilhas — CTA",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-numeros-1.png",
+    "titulo": "Carrossel Números — trilhas por idade",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-numeros-2.png",
+    "titulo": "Carrossel Números — aulas ao vivo",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-numeros-3.png",
+    "titulo": "Carrossel Números — alunos por turma",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-numeros-4.png",
+    "titulo": "Carrossel Números — reais para a família",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/carrossel/carrossel-numeros-5.png",
+    "titulo": "Carrossel Números — projeto seu no final",
+    "formato": "1080x1350",
+    "uso": "Instagram carrossel"
+  },
+  {
+    "arquivo": "redes-sociais/reels/reels-seu-primeiro-projeto.png",
+    "titulo": "Capa de Reels — SEU PRIMEIRO\nPROJETO",
+    "formato": "1080x1920",
+    "uso": "Capa de vídeo vertical"
+  },
+  {
+    "arquivo": "redes-sociais/reels/reels-aprender-fazendo.png",
+    "titulo": "Capa de Reels — APRENDER\nFAZENDO",
+    "formato": "1080x1920",
+    "uso": "Capa de vídeo vertical"
+  },
+  {
+    "arquivo": "redes-sociais/reels/reels-automacao-real.png",
+    "titulo": "Capa de Reels — AUTOMAÇÃO\nREAL",
+    "formato": "1080x1920",
+    "uso": "Capa de vídeo vertical"
+  },
+  {
+    "arquivo": "redes-sociais/reels/reels-tres-perguntas.png",
+    "titulo": "Capa de Reels — 3 PERGUNTAS\nANTES DE\nSE INSCREVER",
+    "formato": "1080x1920",
+    "uso": "Capa de vídeo vertical"
+  },
+  {
+    "arquivo": "redes-sociais/destaques/destaque-aulas.png",
+    "titulo": "Capa de destaque — Aulas",
+    "formato": "1080x1920",
+    "uso": "Instagram destaques"
+  },
+  {
+    "arquivo": "redes-sociais/destaques/destaque-projetos.png",
+    "titulo": "Capa de destaque — Projetos",
+    "formato": "1080x1920",
+    "uso": "Instagram destaques"
+  },
+  {
+    "arquivo": "redes-sociais/destaques/destaque-mostra.png",
+    "titulo": "Capa de destaque — Mostra",
+    "formato": "1080x1920",
+    "uso": "Instagram destaques"
+  },
+  {
+    "arquivo": "redes-sociais/destaques/destaque-dúvidas.png",
+    "titulo": "Capa de destaque — Dúvidas",
+    "formato": "1080x1920",
+    "uso": "Instagram destaques"
+  },
+  {
+    "arquivo": "redes-sociais/destaques/destaque-inscrição.png",
+    "titulo": "Capa de destaque — Inscrição",
+    "formato": "1080x1920",
+    "uso": "Instagram destaques"
+  },
+  {
+    "arquivo": "impressos/cartaz-a3-geral.png",
+    "titulo": "Cartaz A3 — TECNOLOGIA NA PRÁTICA",
+    "formato": "A3 297x420mm 300dpi",
+    "uso": "Escola, comércio, CRAS"
+  },
+  {
+    "arquivo": "impressos/cartaz-a3-exploradores.png",
+    "titulo": "Cartaz A3 — EXPLORADORES",
+    "formato": "A3 297x420mm 300dpi",
+    "uso": "Escola, comércio, CRAS"
+  },
+  {
+    "arquivo": "impressos/cartaz-a3-profissionais.png",
+    "titulo": "Cartaz A3 — PROFISSIONAIS",
+    "formato": "A3 297x420mm 300dpi",
+    "uso": "Escola, comércio, CRAS"
+  },
+  {
+    "arquivo": "impressos/flyer-a5-frente.png",
+    "titulo": "Flyer A5 — frente",
+    "formato": "A5 148x210mm 300dpi",
+    "uso": "Mão a mão, reunião"
+  },
+  {
+    "arquivo": "impressos/flyer-a5-verso.png",
+    "titulo": "Flyer A5 — verso",
+    "formato": "A5 148x210mm 300dpi",
+    "uso": "Mão a mão, reunião"
+  },
+  {
+    "arquivo": "impressos/faixa-3x08m.png",
+    "titulo": "Faixa 3 x 0,80 m",
+    "formato": "8504x2268 px (72dpi)",
+    "uso": "Fachada de escola, praça"
+  },
+  {
+    "arquivo": "impressos/cracha-frente.png",
+    "titulo": "Crachá — frente",
+    "formato": "90x60mm 300dpi",
+    "uso": "Mostra e visita a escola"
+  },
+  {
+    "arquivo": "impressos/cracha-verso.png",
+    "titulo": "Crachá — verso",
+    "formato": "90x60mm 300dpi",
+    "uso": "Mostra e visita a escola"
+  },
+  {
+    "arquivo": "impressos/adesivo-gratis.png",
+    "titulo": "Adesivo — gratis",
+    "formato": "80x80mm 300dpi",
+    "uso": "Kit do aluno e da equipe"
+  },
+  {
+    "arquivo": "impressos/adesivo-eu-faco.png",
+    "titulo": "Adesivo — eu-faco",
+    "formato": "80x80mm 300dpi",
+    "uso": "Kit do aluno e da equipe"
+  },
+  {
+    "arquivo": "web/link-preview-1200x630.png",
+    "titulo": "Link preview / OG image",
+    "formato": "1200x630",
+    "uso": "WhatsApp, redes, site"
+  },
+  {
+    "arquivo": "web/hero-1920x1080.png",
+    "titulo": "Hero do site",
+    "formato": "1920x1080",
+    "uso": "Página de inscrição"
+  },
+  {
+    "arquivo": "whatsapp/whatsapp-convite-curto.png",
+    "titulo": "WhatsApp — convite-curto",
+    "formato": "1080x1080",
+    "uso": "Mensagem com imagem"
+  },
+  {
+    "arquivo": "whatsapp/whatsapp-aula-hoje.png",
+    "titulo": "WhatsApp — aula-hoje",
+    "formato": "1080x1080",
+    "uso": "Mensagem com imagem"
+  },
+  {
+    "arquivo": "whatsapp/whatsapp-obrigado.png",
+    "titulo": "WhatsApp — obrigado",
+    "formato": "1080x1080",
+    "uso": "Mensagem com imagem"
+  },
+  {
+    "arquivo": "slides/slide-capa-geral.png",
+    "titulo": "Capa de slide — TECNOLOGIA NA PRÁTICA",
+    "formato": "1920x1080",
+    "uso": "Google Slides / PowerPoint"
+  },
+  {
+    "arquivo": "slides/slide-capa-exploradores.png",
+    "titulo": "Capa de slide — EXPLORADORES",
+    "formato": "1920x1080",
+    "uso": "Google Slides / PowerPoint"
+  },
+  {
+    "arquivo": "slides/slide-capa-makers.png",
+    "titulo": "Capa de slide — MAKERS/DEVS",
+    "formato": "1920x1080",
+    "uso": "Google Slides / PowerPoint"
+  },
+  {
+    "arquivo": "slides/slide-capa-profissionais.png",
+    "titulo": "Capa de slide — PROFISSIONAIS",
+    "formato": "1920x1080",
+    "uso": "Google Slides / PowerPoint"
+  },
+  {
+    "arquivo": "slides/slide-template.png",
+    "titulo": "Template de slide",
+    "formato": "1920x1080",
+    "uso": "Base editável para todas as aulas"
+  },
+  {
+    "arquivo": "certificados/certificado-exploradores.png",
+    "titulo": "Certificado — EXPLORADORES",
+    "formato": "A4 paisagem 300dpi",
+    "uso": "Entrega ao aluno"
+  },
+  {
+    "arquivo": "certificados/certificado-makers.png",
+    "titulo": "Certificado — MAKERS/DEVS",
+    "formato": "A4 paisagem 300dpi",
+    "uso": "Entrega ao aluno"
+  },
+  {
+    "arquivo": "certificados/certificado-profissionais.png",
+    "titulo": "Certificado — PROFISSIONAIS",
+    "formato": "A4 paisagem 300dpi",
+    "uso": "Entrega ao aluno"
+  },
+  {
+    "arquivo": "selos/selo-gratis.png",
+    "titulo": "Selo — GRÁTIS",
+    "formato": "600x600 transparente",
+    "uso": "Aplicar sobre fotos e peças"
+  },
+  {
+    "arquivo": "selos/selo-ao-vivo.png",
+    "titulo": "Selo — AO VIVO",
+    "formato": "600x600 transparente",
+    "uso": "Aplicar sobre fotos e peças"
+  },
+  {
+    "arquivo": "selos/selo-certificado.png",
+    "titulo": "Selo — CERTIFICADO",
+    "formato": "600x600 transparente",
+    "uso": "Aplicar sobre fotos e peças"
+  },
+  {
+    "arquivo": "selos/selo-online.png",
+    "titulo": "Selo — 100% ONLINE",
+    "formato": "600x600 transparente",
+    "uso": "Aplicar sobre fotos e peças"
+  },
+  {
+    "arquivo": "selos/selo-sao-pedro.png",
+    "titulo": "Selo — FEITO EM SÃO PEDRO",
+    "formato": "600x600 transparente",
+    "uso": "Aplicar sobre fotos e peças"
+  },
+  {
+    "arquivo": "selos/selo-vagas.png",
+    "titulo": "Selo — 20 VAGAS",
+    "formato": "600x600 transparente",
+    "uso": "Aplicar sobre fotos e peças"
+  },
+  {
+    "arquivo": "padroes/padrao-grade-creme.png",
+    "titulo": "Padrão — padrao-grade-creme",
+    "formato": "1080x1080",
+    "uso": "Fundo para stories e posts"
+  },
+  {
+    "arquivo": "padroes/padrao-pontos-noite.png",
+    "titulo": "Padrão — padrao-pontos-noite",
+    "formato": "1080x1080",
+    "uso": "Fundo para stories e posts"
+  },
+  {
+    "arquivo": "padroes/padrao-circuito.png",
+    "titulo": "Padrão — padrao-circuito",
+    "formato": "1080x1080",
+    "uso": "Fundo para stories e posts"
+  },
+  {
+    "arquivo": "padroes/padrao-mosaico.png",
+    "titulo": "Padrão — padrao-mosaico",
+    "formato": "1080x1080",
+    "uso": "Fundo para stories e posts"
+  },
+  {
+    "arquivo": "logos/logo-icone.svg",
+    "titulo": "Logotipo — icone",
+    "formato": "SVG vetorial",
+    "uso": "Avatar, favicon, marca d'água"
+  },
+  {
+    "arquivo": "logos/logo-icone-branco.svg",
+    "titulo": "Logotipo — icone-branco",
+    "formato": "SVG vetorial",
+    "uso": "Avatar, favicon, marca d'água"
+  },
+  {
+    "arquivo": "logos/logo-icone-preto.svg",
+    "titulo": "Logotipo — icone-preto",
+    "formato": "SVG vetorial",
+    "uso": "Avatar, favicon, marca d'água"
+  },
+  {
+    "arquivo": "logos/logo-horizontal.png",
+    "titulo": "Logotipo — logo-horizontal",
+    "formato": "PNG alta resolução",
+    "uso": "Peças digitais"
+  },
+  {
+    "arquivo": "logos/logo-horizontal-branco.png",
+    "titulo": "Logotipo — logo-horizontal-branco",
+    "formato": "PNG alta resolução",
+    "uso": "Peças digitais"
+  },
+  {
+    "arquivo": "logos/logo-vertical.png",
+    "titulo": "Logotipo — logo-vertical",
+    "formato": "PNG alta resolução",
+    "uso": "Peças digitais"
+  },
+  {
+    "arquivo": "logos/logo-vertical-branco.png",
+    "titulo": "Logotipo — logo-vertical-branco",
+    "formato": "PNG alta resolução",
+    "uso": "Peças digitais"
+  },
+  {
+    "arquivo": "logos/etiqueta-exploradores.png",
+    "titulo": "Etiqueta de trilha — EXPLORADORES",
+    "formato": "1200x320",
+    "uso": "Sobreposição em fotos e peças"
+  },
+  {
+    "arquivo": "logos/etiqueta-makers.png",
+    "titulo": "Etiqueta de trilha — MAKERS/DEVS",
+    "formato": "1200x320",
+    "uso": "Sobreposição em fotos e peças"
+  },
+  {
+    "arquivo": "logos/etiqueta-profissionais.png",
+    "titulo": "Etiqueta de trilha — PROFISSIONAIS",
+    "formato": "1200x320",
+    "uso": "Sobreposição em fotos e peças"
+  },
+  {
+    "arquivo": "preview/index.html",
+    "titulo": "Galeria de pré-visualização",
+    "formato": "HTML",
+    "uso": "Abrir no navegador para revisar tudo"
+  }
+]
